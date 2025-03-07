@@ -20,27 +20,8 @@ Obstacle avoidance system
 
 Mobile App Integration (iOS & Android)
 
-How to Purchase
-
-Follow these steps to purchase your autonomous drone:
-
-Select Your Drone Model
-
-Standard Edition (Basic features)
-
-Pro Edition (Advanced features + extended battery)
-
-Enterprise Edition (Customizable features + commercial use license)
 
 Place Your Order
-
-Visit our official website: www.autonomousdrone.com
-
-Choose your model and configuration.
-
-Add the product to your cart.
-
-Proceed to checkout.
 
 Payment Methods
 
@@ -51,19 +32,3 @@ PayPal
 Cryptocurrency (BTC, USDT, ETH)
 
 Bank Transfer (For bulk orders only)
-
-Shipping & Delivery
-
-Worldwide shipping available.
-
-Estimated delivery time: 5-10 business days.
-
-Tracking information will be provided upon dispatch.
-
-Warranty & Support
-
-1-Year Manufacturer Warranty
-
-24/7 Technical Support
-
-Free Firmware Updates
